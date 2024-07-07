@@ -1,0 +1,3 @@
+# /etc/apt/apt.conf
+Acquire::http::Proxy "http://proxy_server:port";
+Acquire::https::Proxy "http://proxy_server:port";

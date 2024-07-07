@@ -1,0 +1,3 @@
+# .bashrc
+export HTTP_PROXY=http://<id>:<pass>@<address>:<port>/
+export HTTPS_PROXY=http://<id>:<pass>@<address>:<port>/
